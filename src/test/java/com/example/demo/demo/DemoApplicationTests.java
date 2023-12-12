@@ -10,7 +10,6 @@ class DemoApplicationTests {
 	void contextLoads() {
 		System.out.println("第三次提交  ");
 		System.out.println("develop 01");
-		System.out.println("develop 02");
 	
 	}
 
